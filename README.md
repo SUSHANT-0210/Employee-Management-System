@@ -55,6 +55,8 @@ This project demonstrates the development of a desktop application for managing 
    pip install customtkinter mysql-connector-python
 3. Set up the MySQL database
 
+---
+
 ##  Application Workflow
 1. Login Page: Authenticate users securely.
 2. Employee Management Dashboard: Add, view, update, delete, and search employee records.
