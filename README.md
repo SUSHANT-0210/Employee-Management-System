@@ -8,10 +8,7 @@ Welcome to the **Employee Management System** project! This is a fully functiona
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [Application Workflow](#application-workflow)
-- [Demo](#demo)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
-
+  
 ---
 
 ## Features
@@ -53,3 +50,15 @@ This project demonstrates the development of a desktop application for managing 
 1. Clone this repository:
    ```bash
    git clone https://github.com/SUSHANT-0210/Employee-Management-System.git
+2. Install the required Python packages:
+   ```bash
+   pip install customtkinter mysql-connector-python
+3. Set up the MySQL database
+
+##  Application Workflow
+1. Login Page: Authenticate users securely.
+2. Employee Management Dashboard: Add, view, update, delete, and search employee records.
+3. Search Functionality: Find employees using specific attributes.
+4. Delete All Functionality: Clear all records from the database.
+
+
